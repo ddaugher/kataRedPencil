@@ -10,7 +10,7 @@ The scope of the Code Kata is the implementations of the rules for activation an
 red pencil promotions.
 
 - A red pencil promotion starts due to a price reduction. The price has to be reduced by 
-at least 5% but at most bei 30% and the previous price had to be stable for at least 30 
+at least 5% but at most by 30% and the previous price had to be stable for at least 30
 days.
 - A red pencil promotion lasts 30 days as the maximum length.
 - If the price is further reduced during the red pencil promotion the promotion will not 
