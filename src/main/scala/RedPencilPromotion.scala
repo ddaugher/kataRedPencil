@@ -8,6 +8,7 @@ class RedPencilPromotion {
     price = n
     duration = 0
   }
+
   def setNewDuration(n: Int) {
     duration = n
     if (duration >= 30) {
@@ -27,12 +28,19 @@ class RedPencilPromotion {
 
     val newPrice: Double = (100 - percentage) / 100.00 * price
 
-    if (newPrice < price && price < previousPrice) {
-    } else {
+    if (shouldUpdateDuration(newPrice)) {
       previousPrice = price
       duration = 0
     }
 
     price = newPrice
   }
+
+  def shouldUpdateDuration(newPrice: Double): Boolean = {
+    if (price > newPrice && previousPrice > price) {
+      return false
+    }
+    true
+  }
+
 }

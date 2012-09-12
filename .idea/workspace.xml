@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="427d07cf-6c51-4746-aa87-13bbb27daec0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/IllegalDuration.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/IllegalReduction.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/RedPencilPromotion.scala" afterPath="$PROJECT_DIR$/src/main/scala/RedPencilPromotion.scala" />
     </list>
     <ignored path="kataRedPencil.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,7 +70,7 @@
           <file leaf-file-name="RedPencilPromotionSpec.scala" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/scala/RedPencilPromotionSpec.scala">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="66" column="19" selection-start="1601" selection-end="1601" vertical-scroll-proportion="0.1626506">
+                <state line="87" column="27" selection-start="2210" selection-end="2210" vertical-scroll-proportion="0.7319277">
                   <folding />
                 </state>
               </provider>
@@ -85,7 +83,7 @@
           <file leaf-file-name="RedPencilPromotion.scala" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/scala/RedPencilPromotion.scala">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="36" column="19" selection-start="731" selection-end="731" vertical-scroll-proportion="0.810241">
+                <state line="34" column="0" selection-start="683" selection-end="683" vertical-scroll-proportion="0.67771083">
                   <folding />
                 </state>
               </provider>
@@ -497,14 +495,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/RedPencilPromotionSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="19" selection-start="1601" selection-end="1601" vertical-scroll-proportion="0.1626506">
+        <state line="87" column="27" selection-start="2210" selection-end="2210" vertical-scroll-proportion="0.7319277">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/RedPencilPromotion.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="19" selection-start="731" selection-end="731" vertical-scroll-proportion="0.810241">
+        <state line="34" column="0" selection-start="683" selection-end="683" vertical-scroll-proportion="0.67771083">
           <folding />
         </state>
       </provider>
